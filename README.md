@@ -19,6 +19,7 @@ click the **"Use this template"** button. You will be prompted to enter a reposi
 
 Be sure to keep the repository "Public".
 
+
 In your newly created repository, click on the **Settings tab** and scroll down to the **GitHub Pages** section.
 Then select the **master** branch. 
 
